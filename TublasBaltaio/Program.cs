@@ -25,9 +25,15 @@ namespace TublasBaltaio
                 Console.WriteLine(item);
 
             SayMyName(("Robson", "Barranco"));
+
+            var name = WhatsMyName("Robson", "Farias");
+            Console.WriteLine($"{name.FirstName} {name.LastName}");
         }
 
         static void SayMyName((string FirstName, string LastName) name)
             => Console.WriteLine($"{name.FirstName} {name.LastName}"); 
+
+        static (string FirstName, string LastName) WhatsMyName(string firstName, string lastName) 
+            => (firstName, lastName);
     }
 }
