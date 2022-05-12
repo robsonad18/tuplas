@@ -1,0 +1,14 @@
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\bin\Debug\netcoreapp3.1\TublasBaltaio.exe
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\bin\Debug\netcoreapp3.1\TublasBaltaio.deps.json
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\bin\Debug\netcoreapp3.1\TublasBaltaio.runtimeconfig.json
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\bin\Debug\netcoreapp3.1\TublasBaltaio.runtimeconfig.dev.json
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\bin\Debug\netcoreapp3.1\TublasBaltaio.dll
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\bin\Debug\netcoreapp3.1\TublasBaltaio.pdb
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.csproj.AssemblyReference.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.AssemblyInfoInputs.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.AssemblyInfo.cs
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.csproj.CoreCompileInputs.cache
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.dll
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.pdb
+C:\Users\RobsonLucasFariasBar\Documents\development\study\tuplas\TublasBaltaio\obj\Debug\netcoreapp3.1\TublasBaltaio.genruntimeconfig.cache
